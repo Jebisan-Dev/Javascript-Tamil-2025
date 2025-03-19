@@ -1,7 +1,6 @@
 let movie;
 let movie1;
-movie = "Anbe Sivam";
-movie1 = "Vidaamuyarchi";
+movie = "Leo";
+movie1 = "Thuppaki";
 console.log(movie);
 console.log(movie1);
-
